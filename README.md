@@ -34,8 +34,5 @@ The Tableau dashboard includes the following visualizations:
 
 This project is open-source and available under the [MIT License](LICENSE).
 
-## 🔗 Additional Resources
 
-- **Dataset Source**: [Netflix Titles Dataset](https://github.com/DataScienceRoadMapDSRM/Tableau-Dashboards-info/blob/main/netflix_titles.csv)
-- **Tableau Public**: [Tableau](https://public.tableau.com/)
 
