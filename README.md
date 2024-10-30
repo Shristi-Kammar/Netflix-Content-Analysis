@@ -5,7 +5,7 @@
 This project presents an in-depth analysis of Netflix’s global content library using an interactive Tableau dashboard. By visualizing key metrics such as content type distribution, geographic distribution, content growth over time, and genre popularity, this dashboard provides insights into how Netflix's content catalog has evolved over the years and how it varies by country and genre.
 
 ## Dashboard Preview
-![Netflix Dashboard](./dashboard_screenshot.png)
+![Netflix Dashboard](https://github.com/Shristi-Kammar/Netflix-Content-Analysis/blob/main/Screenshot%202024-10-11%20142726.png)
 
 ## 📁 Dataset
 
