@@ -25,21 +25,6 @@ To replicate this project, you will need:
 - **Tableau Desktop** for dashboard creation and visualization.
 - The **Netflix Titles Dataset** as the data source.
 
-## 🚀 Getting Started
-
-1. **Clone the Repository**: 
-   ```bash
-   git clone https://github.com/yourusername/netflix-global-content-dashboard.git
-   ```
-   
-2. **Download the Dataset**: Ensure you have the latest version of the Netflix Titles Dataset. You can download it directly [here](https://github.com/DataScienceRoadMapDSRM/Tableau-Dashboards-info/blob/main/netflix_titles.csv).
-
-3. **Load the Data into Tableau**:
-   - Open Tableau Desktop and connect to the CSV dataset.
-   - Create the views as shown in the dashboard overview or customize as desired.
-
-4. **Publish and Share**:
-   - Publish your Tableau dashboard to Tableau Public or share it through Tableau Server as needed.
 
 ## 📈 Key Insights
 
