@@ -19,11 +19,6 @@ The Tableau dashboard includes the following visualizations:
 5. **Top 10 Countries by Content**: A bar chart showing the top 10 countries in terms of content production, split by movies and TV shows.
 6. **Top 10 Genres**: A bar chart displaying the most popular genres on Netflix, such as Dramas, Documentaries, and Stand-Up Comedy.
 
-## 🛠️ Project Requirements
-
-To replicate this project, you will need:
-- **Tableau Desktop** for dashboard creation and visualization.
-- The **Netflix Titles Dataset** as the data source.
 
 
 ## 📈 Key Insights
@@ -41,6 +36,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 - **Dataset Source**: [Netflix Titles Dataset](https://github.com/DataScienceRoadMapDSRM/Tableau-Dashboards-info/blob/main/netflix_titles.csv)
 - **Tableau Public**: [Tableau](https://public.tableau.com/)
 
----
-
-This README provides a comprehensive guide to the project, making it easy for users to understand the purpose, structure, and requirements for replicating or building upon the dashboard. Happy analyzing!
